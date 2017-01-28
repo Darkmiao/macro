@@ -1,7 +1,9 @@
 ## 审判宏 ##
 智慧审判宏，会按照智慧+审判的顺序出招，抽筋狂按不会给自己狂刷buff。
 * 英文端
-    /script for i=1,16 do if(UnitBuff("player",i)) then if(string.find(UnitBuff("player",i),"RighteousnessAura")) then CastSpellByName("Judgement");break;end;else CastSpellByName("Seal of Wisdom()");break;end;end
+```
+/script for i=1,16 do if(UnitBuff("player",i)) then if(string.find(UnitBuff("player",i),"RighteousnessAura")) then CastSpellByName("Judgement");break;end;else CastSpellByName("Seal of Wisdom()");break;end;end
+```
 * 中文端
     待测试
 
