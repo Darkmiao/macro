@@ -8,10 +8,12 @@
   待测试
 
 * 其他审判：
-** InnerRage--Command(命令)
-** HealingAura—Light(光明)
-** RighteousnessAura—wisdom(智慧)
-** HolySmite—Crusader(十字军)
+光环名 | 审判 | 中文     
+------- | ---------------- | ------:
+InnerRage  | Command | 命令 
+HealingAura  | Light        | 光明       
+RighteousnessAura   | wisdom | 智慧      
+HolySmite   | Crusader | 十字军     
 
 ## 战场旗手宏 ##
   由于骑士无法通过连续点击取消无敌，固有此宏，用于战场出旗。用1级无敌省蓝。
